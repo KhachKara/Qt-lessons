@@ -15,7 +15,7 @@ int main(int argc, char *argv[])
     label.setFont(font);
     label.setText("Hello World!");
     label.show();
-    label.resize(800, 600);
+    label.resize(400, 400);
     label.setAlignment(Qt::AlignCenter);
         return a.exec();
 }
